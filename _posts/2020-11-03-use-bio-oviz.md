@@ -1,12 +1,16 @@
 ---
 layout: post
 title: How to use Bio Oviz
+date: 2010-11-03 14:40:45
 ---
 
-I developed several complex visualization modules on [Bio-oviz](https://bio.oviz.org), a web-based platform for cancer genomics data visualization. The platform can be used without registration. Below demonstrates how to try the demo chart of _**Phased On Genes**_.
+I developed several complex visualization modules on <a href="https://bio.oviz.org" target="_blank">Oviz Bio</a> a web-based platform for cancer genomics data visualization. The platform can be used without registration. This post demonstrates how to try the demo chart of `Phased On Genes`.
+
 
 #### 1. Go to bio-oviz and click `Get Started` to enter the home page
 <img src="{{ site.url }}{{ site.baseurl }}/public/media/bvd_welcome.png" alt="welcome page" style="width:500px;"/>
+
+<!--more-->
 
 #### 2. Click `Phased On Genes` to launch the visualizer interface
 <img src="{{ site.url }}{{ site.baseurl }}/public/media/bvd_home.png" alt="welcome page" style="width:500px;"/>

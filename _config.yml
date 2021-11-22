@@ -1,17 +1,18 @@
 # Setup
 title:               MintyWanna
 tagline:             " First Homepage"
-description:         ' <a href="https://jekyllrb.com" target="_blank">Jekyll</a> <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'Written by <a>Minty WANG</a>'
 url:                 https://mintywanna.github.io/
 baseurl:             /home
 paginate:            5
 permalink:           pretty
+excerpt_separator: <!--more-->
 
 # About/contact
 author:
   name:              Minty, WANG YANFEI
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  url:               https://github.com/mintyWanna
+  email:             mintywangtvt@gmail.com
 
 # Gems
 plugins:

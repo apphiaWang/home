@@ -11,5 +11,6 @@ title: About
 
 **email**: mintywangtvt@gmail.com
 
-_Thanks for your visit!_
+
+## _Thanks for your visit!_
 
