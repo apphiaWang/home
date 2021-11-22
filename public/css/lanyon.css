@@ -505,7 +505,13 @@ a.pagination-item:hover {
 .theme-base-hb .container a,
 .theme-base-hb .sidebar-toggle,
 .theme-base-hb .related-posts li a:hover {
-  color: #3c6b5d;
+  color: #39a081;
+}
+
+.theme-base-hb .container h1,
+.theme-base-hb .container h2,
+.theme-base-hb .container h3 {
+  color: #194b3c;
 }
 
 /* Blue */
