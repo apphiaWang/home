@@ -512,11 +512,18 @@ a.pagination-item:hover {
 .theme-base-hb .related-posts li a:hover {
   color: #39a081;
 }
-
+.theme-base-hb code {
+  color: #046e36;
+  background-color: #ebeae0;
+}
 .theme-base-hb .container h1,
 .theme-base-hb .container h2,
 .theme-base-hb .container h3 {
   color: #194b3c;
+}
+
+.theme-base-hb i {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 /* Blue */
