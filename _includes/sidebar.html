@@ -26,8 +26,8 @@
         {% endif %}
       {% endif %}
     {% endfor %} -->
-    <a class="sidebar-nav-item{% if page.title == 'Digital CV' %} active{% endif %}" href="/digital-cv">Digital CV</a>
-    <a class="sidebar-nav-item{% if page.url == 'About' %} active{% endif %}" href="/about">About</a>
+    <a class="sidebar-nav-item{% if page.title == 'Digital CV' %} active{% endif %}" href="{{ site.baseurl }}/digital-cv">Digital CV</a>
+    <a class="sidebar-nav-item{% if page.url == 'About' %} active{% endif %}" href="{{ site.baseurl }}/about">About</a>
 
     <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
