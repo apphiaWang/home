@@ -9,7 +9,7 @@ I have developed several visualization modules for bioinformatics analyses durin
 > Right click on the image to view the HD picture
 
 - <a href= "https://gutmeta.deepomics.org/visualizer/analysis/meta-overview" target="_blank" ><b>Meta Overview</b></a>
-<img src="{{ site.url }}{{ site.baseurl }}/public/media/viz_meta.png" alt="welcome page"> </img>
+<img src="{{ site.url }}{{ site.baseurl }}/public/media/viz_meta.png" alt="welcome page"/>
 <br>
 <!--more-->
 - <a href= "https://gutmeta.deepomics.org/visualizer/analysis/fmt-overview" target="_blank" ><b>FMT Overview</b></a>
