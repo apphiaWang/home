@@ -82,7 +82,7 @@ _(Mar 2021 - Now)_
 1. Tan B, Chen L, Jia W, **Wang Y**, Li H, Li S. CNAHap: a germline haplotyping method using tumor allele-specific copy number alteration. bioRxiv. 2021 Jan 1.
 2. He J, Luo J, Liu L, Chen L, Xu X, **Wang Y**, Wei B, Ju C, Wang X, Huang L, Zeng W, Miao X, Sang L, Huang D, Pan G, Peng G, Chen Z, Zhao Z, Yang C, Cui W, Li S. Over-shedding of donor-derived cell-free DNA at immune-related regions into plasma of lung transplant recipient. (_in production at CTM_)
 3. Jiang Y\*, **Wang Y\***,  Che L*, Li, S. GutMeta, a one-stop platform for human gut whole-genome shotgun metagenomic sequencing data analysis (_proposal submitted to NAR_)
-4. Wang S\*, Wang M\*, Chen L, Yu Y, Pan G, **Wang Y**; Tan B, Li S. SpecHLA: haplotyping entire HLA genes from sequencing data (_proposal submitted to Genome Medicine_)
+4. Wang S\*, Wang M\*, Chen L, Yu Y, Pan G, **Wang Y**; Tan B, Li S. SpecHLA: haplotyping entire HLA genes from sequencing data (_proposal submitted to Cell Systems_)
 5. Jiang Y\*, Wang S, **Wang Y**, Zhang X, Li, S. A framework to trace microbial engraftment at the strain level during fecal microbiota transplantation (_under publication at BMC_) 
 
 ## Skills
