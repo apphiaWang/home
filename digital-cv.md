@@ -87,41 +87,28 @@ _(Mar 2021 - Now)_
 
 ## Skills
 
-|OS|MAC, Linux, Windows|
-|---|---|
-|Programming Language|  Skilled Java, JavaScript, Typescript, Python3, Ruby; <br>Basic C++, C#；|
-|Frameworks|Spring, Ruby On Rails, Vue.JS|
-|Database|Microsoft SQL, Mysql, Postgresql|
-<!-- <table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
+<table>
   <tbody>
     <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
+      <td>OS</td>
+      <td>MAC, Linux, Windows</td>
     </tr>
     <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
+      <td>Programming Language</td>
+      <td>Skilled Java, JavaScript, Typescript, Python3, Ruby; <br>Basic C++, C# ;
+      </td>
     </tr>
     <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
+      <td>Frameworks</td>
+      <td>Spring MVC, Spring Boot, Ruby On Rails, Vue.JS</td>
+    </tr>
+    <tr>
+      <td>Database</td>
+      <td>Microsoft SQL, Mysql, Postgresql</td>
+    </tr>
+     <tr>
+      <td>Developer's tools</td>
+      <td>VSCode, Ecllipse, Postman</td>
     </tr>
   </tbody>
-</table> -->
+</table>
