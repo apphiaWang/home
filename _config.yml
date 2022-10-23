@@ -1,8 +1,8 @@
 # Setup
-title:               MintyWanna
+title:               ApphiaWang
 tagline:             " First Homepage"
-description:         'Written by <a>Minty WANG</a>'
-url:                 https://mintywanna.github.io/
+description:         'Written by <a>Apphia WANG</a>'
+url:                 https://apphiawang.github.io/
 baseurl:             /home
 paginate:            5
 permalink:           pretty
@@ -11,8 +11,8 @@ excerpt_separator: <!--more-->
 # About/contact
 author:
   name:              Minty, WANG YANFEI
-  url:               https://github.com/mintyWanna
-  email:             mintywangtvt@gmail.com
+  url:               https://github.com/apphiawang
+  email:             apphiawangyf@gmail.com
 
 # Gems
 plugins:
