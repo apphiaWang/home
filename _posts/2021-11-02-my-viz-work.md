@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Data-Driven Visualization Work
-date: 2010-11-02 14:40:45
+date: 2021-11-02 14:40:45
 ---
 
 I have developed several visualization modules for bioinformatics analyses during my research assistant work. The framework used is <a href= "https://oviz.org" target="_blank" >Oviz</a>. This post lists some production-ready visualizations:

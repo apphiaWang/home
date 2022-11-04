@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to use Bio Oviz
-date: 2010-11-03 14:40:45
+date: 2020-11-03 14:40:45
 ---
 
 I developed several complex visualization modules on <a href="https://bio.oviz.org" target="_blank">Oviz Bio</a> a web-based platform for cancer genomics data visualization. The platform can be used without registration. This post demonstrates how to try the demo chart of `Phased On Genes`.

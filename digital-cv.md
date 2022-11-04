@@ -3,18 +3,51 @@ layout: page
 title: Digital CV
 ---
 
-<!-- <p class="message">
-  This is my digital CV.
-</p> -->
+<!-- > **Attention!!**  Please note that the mentioned platforms (oviz, gutmeta) are currently unavailable due to server down. My colleagues are struggling to fix it. Will release new notice if it's back. -->
+
+
+## Skills
+
+<table>
+  <tbody>
+    <tr>
+      <td>OS</td>
+      <td>MAC, Linux, Windows</td>
+    </tr>
+    <tr>
+      <td>Programming Languages</td>
+      <td>Skilled Java, JavaScript, Typescript, Python3, Ruby; <br>Basic C++, C# ;
+      </td>
+    </tr>
+    <tr>
+      <td>Web Frameworks</td>
+      <td>Spring MVC, Spring Boot, Ruby On Rails, Vue.JS</td>
+    </tr>
+    <tr>
+      <td>Relational and NoSQL Database</td>
+      <td>Microsoft SQL, Mysql, Postgresql, Cassandra</td>
+    </tr>
+    <tr>
+      <td>Data Mining Skills</td>
+      <td>Spark, Python, R</td>
+    </tr>
+     <tr>
+      <td>Developer's tools</td>
+      <td>VSCode, Ecllipse, Postman, NetBeans, Git</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## Education
 
 |time|institution|
 |--|--|
-|2014 - 2018 | City University of Hong Kong <br>Bachelor of Science(Computer Science) <br>GPA 3.32/4.3 Upper Division|
-|2011 - 2014 | Shang Hai Jincai High School |
-|2007 - 2011 | Shang Hai Jincai North Secondary School|
+|2022 - Now | Simon Fraser University <br>Master in Professional Computing Science, big data|
+|2014 - 2018 | City University of Hong Kong <br>Bachelor of Science(Computer Science)|
+
+<!-- |2011 - 2014 | Shang Hai Jincai High School |
+|2007 - 2011 | Shang Hai Jincai North Secondary School| -->
 
 <hr>
 
@@ -23,8 +56,14 @@ title: Digital CV
 
 ### 1. GutMeta
 
-- **intro**: GutMeta is a one-stop platform for human gut metagenomics research. I built the webframework using Ruby On Rails and Vue.js, and developed all the visualization modules using Oviz. 
-- **result**: The paper is still in preparation now. You can first have a glance at the [website here](https://gutmeta.deepomics.org/visualizer/analysis/meta-overview).
+- **intro**: GutMeta is a one-stop platform for human gut metagenomics research. 
+- **responsibilities**:
+    - Designed the platform in collaboration with other Phd students,
+    - Designed the back-end database;
+    - Implemented the webframework using Ruby On Rails, Vue.js, and PostgreSQL;
+    - Developed all the online visualization modules using Oviz.
+
+- **result**: The proposal is now under revision at Microbiome. The platform  is available at [gutmeta.deepomics.org](https://gutmeta.deepomics.org/visualizer/analysis/meta-overview).
 
 ### 2. CNAHap
 
@@ -65,7 +104,7 @@ _(Mar 2021 - Now)_
 **HID Global Cid Ltd.**
 <br>_(May 2019 - Sep 2020)_
 
-- Developed back-end systems of the digital-security-document web application, using Spring MVC, Spring Security, Hibernate, and Tomcat.
+- Developed back-end systems of the digital-security-document web applications, using Java, Spring Framework, and MSSQL.
 - Maintained the e-passport systems for Philippine and Nigeria.
 - Prepared report templates using Jaspersoft studio.
 
@@ -84,31 +123,3 @@ _(Mar 2021 - Now)_
 3. Jiang Y\*, **Wang Y\***,  Che L*, Li, S. GutMeta, a one-stop platform for human gut whole-genome shotgun metagenomic sequencing data analysis (_proposal submitted to NAR_)
 4. Wang S\*, Wang M\*, Chen L, Yu Y, Pan G, **Wang Y**; Tan B, Li S. SpecHLA: haplotyping entire HLA genes from sequencing data (_proposal submitted to Cell Systems_)
 5. Jiang Y\*, Wang S, **Wang Y**, Zhang X, Li, S. A framework to trace microbial engraftment at the strain level during fecal microbiota transplantation (_under publication at BMC_) 
-
-## Skills
-
-<table>
-  <tbody>
-    <tr>
-      <td>OS</td>
-      <td>MAC, Linux, Windows</td>
-    </tr>
-    <tr>
-      <td>Programming Language</td>
-      <td>Skilled Java, JavaScript, Typescript, Python3, Ruby; <br>Basic C++, C# ;
-      </td>
-    </tr>
-    <tr>
-      <td>Frameworks</td>
-      <td>Spring MVC, Spring Boot, Ruby On Rails, Vue.JS</td>
-    </tr>
-    <tr>
-      <td>Database</td>
-      <td>Microsoft SQL, Mysql, Postgresql</td>
-    </tr>
-     <tr>
-      <td>Developer's tools</td>
-      <td>VSCode, Ecllipse, Postman</td>
-    </tr>
-  </tbody>
-</table>

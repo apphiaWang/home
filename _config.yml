@@ -1,7 +1,7 @@
 # Setup
-title:               ApphiaWang
+title:               Yanfei Wang
 tagline:             " First Homepage"
-description:         'Written by <a>Apphia WANG</a>'
+description:         'Written by <a>Yanfei Wang</a>'
 url:                 https://apphiawang.github.io/
 baseurl:             /home
 paginate:            5
@@ -10,9 +10,9 @@ excerpt_separator: <!--more-->
 
 # About/contact
 author:
-  name:              Minty, WANG YANFEI
+  name:              WANG YANFEI
   url:               https://github.com/apphiawang
-  email:             apphiawangyf@gmail.com
+  email:             mintywangtvt@gmail.com
 
 # Gems
 plugins:
