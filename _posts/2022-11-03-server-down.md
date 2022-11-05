@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Oops.. Server down
-date: 2020-11-03 19:00:00
+title: Oops! Server down...
+date: 2022-11-03 14:40:45
 ---
 
-The server hosting gutmeta and bio-oviz is down so these platforms are unavailable now. My former colleagues are struggling to fix it. A new post will be issued after the server is back (if it can). 
+Please notice that the server hosting GutMeta, Bio-oviz, Oviz is down, so these platforms are currently unavailable. My former colleagues are struggling to fix it. Will release a new notice after the server is back.

@@ -3,7 +3,7 @@ layout: page
 title: Digital CV
 ---
 
-<!-- > **Attention!!**  Please note that the mentioned platforms (oviz, gutmeta) are currently unavailable due to server down. My colleagues are struggling to fix it. Will release new notice if it's back. -->
+> **Attention!!**  Please notice that the server hosting GutMeta, Bio-oviz, Oviz is down, so these platforms are currently unavailable. My former colleagues are struggling to fix it. Will release a new notice after the server is back..
 
 
 ## Skills
