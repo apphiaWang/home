@@ -24,4 +24,4 @@ I have developed several visualization modules for bioinformatics analyses durin
 - **Phased: On Genes**
 <img src="{{ site.url }}{{ site.baseurl }}/public/media/viz_phased.png" alt="welcome page" />
 <br>
-> To try the last two visualizations, you can check [this post]({% post_url 2020-11-03-use-bio-oviz %}). Details of the visualization can be found in the user manual on the platform.
+> To try the last two visualizations, you can check [this post]({% post_url 2021-11-03-use-bio-oviz %}). Details of the visualization can be found in the user manual on the platform.

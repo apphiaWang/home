@@ -68,7 +68,7 @@ title: Digital CV
 ### 2. CNAHap
 
 - **intro**: CNAHap is a germline haplotyping tool using tumor allele-specific copy number alteration. For this project, I developed the online visualization modules, including a novel compound diagram _Phased:On Genes_ and a Circos Overview chart, using the Oviz-Bio platform.
-- **result**: One paper available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.03.27.437314v1). The visualizations are available on bio-oviz, you can check [this post]({% post_url 2020-11-03-use-bio-oviz %}) for the guidelines.
+- **result**: One paper available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.03.27.437314v1). The visualizations are available on bio-oviz, you can check [this post]({% post_url 2021-11-03-use-bio-oviz %}) for the guidelines.
 <!-- - Tan B, Chen L, Jia W, Wang Y, Li H, Li S. CNAHap: a germline haplotyping method using tumor allele-specific copy number alteration. bioRxiv. 2021 Jan 1. -->
 
 <hr>
