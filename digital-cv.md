@@ -3,7 +3,7 @@ layout: page
 title: Digital CV
 ---
 
-> **Attention!!**  Please notice that the server hosting GutMeta, Bio-oviz, Oviz is down, so these platforms are currently unavailable. My former colleagues are struggling to fix it. Will release a new notice after the server is back..
+> **Attention!!**  Please notice that GutMeta is currently unavailable. Will release a new notice if my previous colleaguse fix the issue and bring back the website.
 
 
 ## Skills
@@ -16,12 +16,12 @@ title: Digital CV
     </tr>
     <tr>
       <td>Programming Languages</td>
-      <td>Skilled Java, JavaScript, Typescript, Python3, Ruby; <br>Basic C++, C# ;
+      <td>Skilled Java, C#, JavaScript, Typescript, Python3, Ruby; <br>Medium C++;
       </td>
     </tr>
     <tr>
       <td>Web Frameworks</td>
-      <td>Spring MVC, Spring Boot, Ruby On Rails, Vue.JS</td>
+      <td>Spring MVC, Spring Boot, Ruby On Rails, Vue.Js, Angular.Js</td>
     </tr>
     <tr>
       <td>Relational and NoSQL Database</td>
@@ -29,7 +29,7 @@ title: Digital CV
     </tr>
     <tr>
       <td>Data Mining Skills</td>
-      <td>Spark, Python, R</td>
+      <td>Spark, Python(pandas)</td>
     </tr>
      <tr>
       <td>Developer's tools</td>
@@ -91,24 +91,31 @@ _(Mar 2021 - Now)_
 <hr>
 
 ## Work Experiences
+**CAE Inc** 
+<br>_(May 2023 - Dec 2023)_
+- Worked as a **full-stack developer** in an Agile Scrum team for CAE Pelesys.
+- Maintained the aviation e-learning system using C#, .Net, and Vue.js by adding features and fixing bugs to ensure the quality of the system and improve customer satisfaction
+- Analyze UI loading performance issue by tracing network request latencies with Edge software developers
+- Collaborated with peers to implement the UI of the notification system with Vue.js and Typescript, successfully delivering it as the Minimum Viable Product(MVP)
+- Implemented the background process for notifying certificate status updates using .Net, C#, and RESTful API calls, successfully delivering the requested feature and ensuring customers satisfaction
 
 **City University of Hong Kong, Dept of Computer Science** 
-<br>_(Oct 2020 - Now)_
-- Work as the research assistant for Professor LI Shuaicheng.
-- Design database system for GutMeta website.
-- Develop and maintain the websites for academic research achievements using Ruby On Rails, Postgresql, Vue.JS and Oviz.
-- Develop and maintain data visualization modules on the web platform using Oviz.
-- Develop and maintain the Oviz framework.
+<br>_(Oct 2020 - Sep 2022)_
+- Worked as a **research assistant** for Professor LI Shuaicheng.
+- Designed database system for GutMeta website.
+- Developed and maintain the websites for academic research achievements using Ruby On Rails, Postgresql, Vue.JS and Oviz.
+- Developed and maintain data visualization modules on the web platform using Oviz.
+- Maintained the Oviz framework by adding features and adding documentation.
 > [Oviz](https://oviz.org) is a visualization framework created by a previous RA of Prof. Li. Oviz has its own template language to describe either an SVG or a canvas chart and adopts Typescript for other functions such as data processing and interaction.
 
 **HID Global Cid Ltd.**
 <br>_(May 2019 - Sep 2020)_
-
+- Worked as a **junior solution developer**
 - Developed back-end systems of the digital-security-document web applications, using Java, Spring Framework, and MSSQL.
 - Maintained the e-passport systems for Philippine and Nigeria.
 - Prepared report templates using Jaspersoft studio.
 
-**L&E Management**
+**L&E Management** _(worked for HID)_
 <br>_(Jul 2018 - Apr 2019)_
 - Developed back-end systems of the digital-security-document web applications.
 - Optimized SQL queries for Philippine projects.
