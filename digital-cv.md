@@ -21,11 +21,11 @@ title: Digital CV
     </tr>
     <tr>
       <td>Web Frameworks</td>
-      <td>Spring MVC, Spring Boot, Ruby On Rails, Vue.Js, Angular.Js</td>
+      <td>Spring MVC, Spring Boot, Ruby On Rails, Vue.Js, Angular.Js, .Net</td>
     </tr>
     <tr>
       <td>Relational and NoSQL Database</td>
-      <td>Microsoft SQL, Mysql, Postgresql, Cassandra</td>
+      <td>Microsoft SQL, Mysql, Postgresql, Cassandra, DynamoDB</td>
     </tr>
     <tr>
       <td>Data Mining Skills</td>
@@ -33,10 +33,50 @@ title: Digital CV
     </tr>
      <tr>
       <td>Developer's tools</td>
-      <td>VSCode, Ecllipse, Postman, NetBeans, Git</td>
+      <td>VSCode, Ecllipse, Postman, NetBeans, Visual Studio, Git</td>
     </tr>
   </tbody>
 </table>
+
+## Technical Experiences
+**CAE Inc** 
+<br>_(May 2023 - Dec 2023)_
+- Worked as a **full-stack developer** in an Agile Scrum team for CAE Pelesys.
+- Maintained the aviation e-learning system using C#, .Net, and Vue.js by adding features and fixing bugs to ensure the quality of the system and improve customer satisfaction
+- Analyze UI loading performance issue by tracing network request latencies with Edge software developers
+- Troubleshot the performance of user-to-user-group mapping update API by tracing database logs in Microsoft SQL profiler and debugging with Visual Studio, and implemented the solution with C# and .Net Entity Framework, resulting in a reduction of latency by 50%
+- Collaborated with peers to implement the UI of the notification system with Vue.js and Typescript, successfully delivering it as the Minimum Viable Product(MVP)
+- Implemented the background process for notifying certificate status updates using .Net, C#, and RESTful API calls, successfully delivering the requested feature and ensuring customers satisfaction
+- Conducted code review by addressing comments from peers and providing feedback to peers’ work with Azure DevOps to ensure readability and maintainability of code
+
+**City University of Hong Kong, Dept of Computer Science** 
+<br>_(Oct 2020 - Sep 2022)_
+- Worked as a **research assistant** for Professor LI Shuaicheng.
+- Implemented the GutMeta platform with Ruby on Rails, Vue.js, and PostgreSQL to offer scientists a solution that can analyze bioinformatics data without any coding
+- Upgraded the Oviz-IDE from Vue2 to Vue3 with Vue.js and Node.js to enable Oviz developers build visualization program with ease¬ while ensuring the use of the latest techniques
+- Designed the database for GutMeta by collecting requirements from PhD students and drawing relational diagram with draw.io, resulting in a clear schema for implementation
+- Maintained the task management system with Flask and python to ensure smooth analysis in the lab
+- Mentored undergraduates’ data visualization work by giving well-designed tutorials and answering technical questions, ensuring everyone have a smooth progress on the projects
+- Maintained the Linux CentOS web server for hosting webplatforms and data pipeline tasks 
+- Maintained the Oviz framework by adding features and adding documentation.
+> [Oviz](https://oviz.org) is a visualization framework created by a previous RA of Prof. Li. Oviz has its own template language to describe either an SVG or a canvas chart and adopts Typescript for other functions such as data processing and interaction.
+
+**HID Global Cid Ltd.**
+<br>_(May 2019 - Sep 2020)_
+- Worked as a **junior solution developer**
+- Collaborated with peers to implement the passport workflow management system of Libya passports with rest APIs, Java, Spring Data, MySQL, and Git, result in a production-ready application
+- Optimized the inventory checkout query of the Philippines passport system by updating the query with batch update in MSSQL, reducing query time from an hour to a few seconds
+- Mentored our peers in Nigeria through the Nigerian passport production control system by giving sample RESTful API calls in JSON and demo videos on slack, successfully delivering it to production
+- Maintained the front-end of the Macao passport system by enhancing UI with Angular.js, HTML, and CSS to help officers control the passport production more efficiently
+- Prepared report templates using Jaspersoft studio and MicrosoftSQL
+
+**L&E Management** _(worked for HID)_
+<br>_(Jul 2018 - Apr 2019)_
+- Implemented back-end of the Myanmar Seafarer ID production control system in collaboration with the team using Java, Spring MVC, Hibernate, and Microsoft SQL, successfully delivering them to production
+- Optimized the inventory checkout query of the Philippines passport system by updating the query with batch update in MSSQL, reducing query time from an hour to a few seconds
+> At this time, I was working at HID Global, then transferred HID Global in May 2019.
+
+<hr>
 
 
 ## Education
@@ -45,9 +85,6 @@ title: Digital CV
 |--|--|
 |2022 - Now | Simon Fraser University <br>Master in Professional Computing Science, big data|
 |2014 - 2018 | City University of Hong Kong <br>Bachelor of Science(Computer Science)|
-
-<!-- |2011 - 2014 | Shang Hai Jincai High School |
-|2007 - 2011 | Shang Hai Jincai North Secondary School| -->
 
 <hr>
 
@@ -64,6 +101,7 @@ title: Digital CV
     - Developed all the online visualization modules using Oviz.
 
 - **result**: The proposal is now under revision at Microbiome. The platform  is available at [gutmeta.deepomics.org](https://gutmeta.deepomics.org/visualizer/analysis/meta-overview).
+> The gutmeta platform is temporarily down.
 
 ### 2. CNAHap
 
@@ -87,39 +125,6 @@ _(Mar 2021 - Now)_
 #### **Results**
 - The [project](https://www.cityu.edu.hk/hktech300/start-ups/seed-fund-teams/combcure) has won the seed fund for the first cohort in [HKTech300](https://www.cityu.edu.hk/hktech300/home).
 - Beta version named Gene-App established, with all core functions implemented, including user management, analysis task submission, and report generation.
-
-<hr>
-
-## Work Experiences
-**CAE Inc** 
-<br>_(May 2023 - Dec 2023)_
-- Worked as a **full-stack developer** in an Agile Scrum team for CAE Pelesys.
-- Maintained the aviation e-learning system using C#, .Net, and Vue.js by adding features and fixing bugs to ensure the quality of the system and improve customer satisfaction
-- Analyze UI loading performance issue by tracing network request latencies with Edge software developers
-- Collaborated with peers to implement the UI of the notification system with Vue.js and Typescript, successfully delivering it as the Minimum Viable Product(MVP)
-- Implemented the background process for notifying certificate status updates using .Net, C#, and RESTful API calls, successfully delivering the requested feature and ensuring customers satisfaction
-
-**City University of Hong Kong, Dept of Computer Science** 
-<br>_(Oct 2020 - Sep 2022)_
-- Worked as a **research assistant** for Professor LI Shuaicheng.
-- Designed database system for GutMeta website.
-- Developed and maintain the websites for academic research achievements using Ruby On Rails, Postgresql, Vue.JS and Oviz.
-- Developed and maintain data visualization modules on the web platform using Oviz.
-- Maintained the Oviz framework by adding features and adding documentation.
-> [Oviz](https://oviz.org) is a visualization framework created by a previous RA of Prof. Li. Oviz has its own template language to describe either an SVG or a canvas chart and adopts Typescript for other functions such as data processing and interaction.
-
-**HID Global Cid Ltd.**
-<br>_(May 2019 - Sep 2020)_
-- Worked as a **junior solution developer**
-- Developed back-end systems of the digital-security-document web applications, using Java, Spring Framework, and MSSQL.
-- Maintained the e-passport systems for Philippine and Nigeria.
-- Prepared report templates using Jaspersoft studio.
-
-**L&E Management** _(worked for HID)_
-<br>_(Jul 2018 - Apr 2019)_
-- Developed back-end systems of the digital-security-document web applications.
-- Optimized SQL queries for Philippine projects.
-> At this time, I was working at HID Global, then transferred HID Global in May 2019.
 
 <hr>
 
