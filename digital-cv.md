@@ -3,16 +3,13 @@ layout: page
 title: Digital CV
 ---
 
-> **Attention!!**  Please notice that GutMeta is currently unavailable. Will release a new notice if my previous colleaguse fix the issue and bring back the website.
-
-
 ## Skills
 
 <table>
   <tbody>
     <tr>
       <td>OS</td>
-      <td>MAC, Linux, Windows</td>
+      <td>Windows, MAC, Linux (Ubuntu)</td>
     </tr>
     <tr>
       <td>Programming Languages</td>
@@ -20,8 +17,12 @@ title: Digital CV
       </td>
     </tr>
     <tr>
-      <td>Web Frameworks</td>
-      <td>Spring MVC, Spring Boot, Ruby On Rails, Vue.Js, Angular.Js, .Net</td>
+      <td>Web Frameworks & Libraries</td>
+      <td>Spring, Ruby On Rails, .Net, Vue.js, Angular, React</td>
+    </tr>
+    <tr>
+      <td>Software Engineering Practices</td>
+      <td>Agile, Unit Testing, Code Review</td>
     </tr>
     <tr>
       <td>Relational and NoSQL Database</td>
@@ -29,7 +30,7 @@ title: Digital CV
     </tr>
     <tr>
       <td>Data Mining Skills</td>
-      <td>Spark, Python(pandas)</td>
+      <td>Spark, Hadoop, Pandas</td>
     </tr>
      <tr>
       <td>Developer's tools</td>
@@ -37,21 +38,20 @@ title: Digital CV
     </tr>
   </tbody>
 </table>
+<hr>
 
 ## Technical Experiences
-**CAE Inc** 
-<br>_(May 2023 - Dec 2023)_
-- Worked as a **full-stack developer** in an Agile Scrum team for CAE Pelesys.
+**Full-stack developer (co-op) at CAE Inc** 
+<br>Richmond, BC, Canada | May 2023 - Dec 2023
 - Maintained the aviation e-learning system using C#, .Net, and Vue.js by adding features and fixing bugs to ensure the quality of the system and improve customer satisfaction
-- Analyze UI loading performance issue by tracing network request latencies with Edge software developers
+- Analyze the UI loading performance issue by tracing network request latencies using Edge software developers
 - Troubleshot the performance of user-to-user-group mapping update API by tracing database logs in Microsoft SQL profiler and debugging with Visual Studio, and implemented the solution with C# and .Net Entity Framework, resulting in a reduction of latency by 50%
 - Collaborated with peers to implement the UI of the notification system with Vue.js and Typescript, successfully delivering it as the Minimum Viable Product(MVP)
 - Implemented the background process for notifying certificate status updates using .Net, C#, and RESTful API calls, successfully delivering the requested feature and ensuring customers satisfaction
 - Conducted code review by addressing comments from peers and providing feedback to peers’ work with Azure DevOps to ensure readability and maintainability of code
 
-**City University of Hong Kong, Dept of Computer Science** 
-<br>_(Oct 2020 - Sep 2022)_
-- Worked as a **research assistant** for Professor LI Shuaicheng.
+**Research Assistant at City University of Hong Kong, Dept of Computer Science** 
+<br>Hong Kong | Oct 2020 - Sep 2022
 - Implemented the GutMeta platform with Ruby on Rails, Vue.js, and PostgreSQL to offer scientists a solution that can analyze bioinformatics data without any coding
 - Upgraded the Oviz-IDE from Vue2 to Vue3 with Vue.js and Node.js to enable Oviz developers build visualization program with ease¬ while ensuring the use of the latest techniques
 - Designed the database for GutMeta by collecting requirements from PhD students and drawing relational diagram with draw.io, resulting in a clear schema for implementation
@@ -61,29 +61,27 @@ title: Digital CV
 - Maintained the Oviz framework by adding features and adding documentation.
 > [Oviz](https://oviz.org) is a visualization framework created by a previous RA of Prof. Li. Oviz has its own template language to describe either an SVG or a canvas chart and adopts Typescript for other functions such as data processing and interaction.
 
-**HID Global Cid Ltd.**
-<br>_(May 2019 - Sep 2020)_
-- Worked as a **junior solution developer**
+**Solution Developer at HID Global Cid Ltd.**
+<br> Hong Kong |May 2019 - Sep 2020
 - Collaborated with peers to implement the passport workflow management system of Libya passports with rest APIs, Java, Spring Data, MySQL, and Git, result in a production-ready application
-- Optimized the inventory checkout query of the Philippines passport system by updating the query with batch update in MSSQL, reducing query time from an hour to a few seconds
 - Mentored our peers in Nigeria through the Nigerian passport production control system by giving sample RESTful API calls in JSON and demo videos on slack, successfully delivering it to production
 - Maintained the front-end of the Macao passport system by enhancing UI with Angular.js, HTML, and CSS to help officers control the passport production more efficiently
 - Prepared report templates using Jaspersoft studio and MicrosoftSQL
 
-**L&E Management** _(worked for HID)_
-<br>_(Jul 2018 - Apr 2019)_
+**IT Consultant at L&E Management** _(worked for HID)_
+<br>Hong Kong | Jul 2018 - Apr 2019
 - Implemented back-end of the Myanmar Seafarer ID production control system in collaboration with the team using Java, Spring MVC, Hibernate, and Microsoft SQL, successfully delivering them to production
 - Optimized the inventory checkout query of the Philippines passport system by updating the query with batch update in MSSQL, reducing query time from an hour to a few seconds
-> At this time, I was working at HID Global, then transferred HID Global in May 2019.
+
 
 <hr>
 
 
 ## Education
 
-|time|institution|
+|time|school|
 |--|--|
-|2022 - Now | Simon Fraser University <br>Master in Professional Computing Science, big data|
+|2022 - 2024 | Simon Fraser University <br>Master in Professional Computing Science, big data|
 |2014 - 2018 | City University of Hong Kong <br>Bachelor of Science(Computer Science)|
 
 <hr>
@@ -111,9 +109,9 @@ title: Digital CV
 
 <hr>
 
-## Competition
+## Competition Experience
 ### CombCure – an intelligent cancer clinical platform
-_(Mar 2021 - Now)_
+Hong Kong | Mar 2021 - Aug 2022
 
 > **Intro**: CombCure is a web-based platform designed for doctors. CombCure analyzes the genome sequnces of the patient (obtained from third-party sequencing organization), searches the curated database for the most appropriate medicines using our AI algorithms, and generates a report for doctors with visualized analysis results and medicine recommendation.
 
