@@ -3,13 +3,12 @@ layout: page
 title: About
 ---
 
-
-  > Hi dear, I made this website using Jekyll and Lanyon theme.
-
+  > Hi dear, I built this website using Jekyll and Lanyon theme.
+  
 
 ## Contact Me
 
-**email**: mintywangtvt@gmail.com
+**email**: yanfeiwang327@gmail.com
 
 
 ## _Thanks for your visit!_
