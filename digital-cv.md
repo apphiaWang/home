@@ -22,7 +22,7 @@ title: Digital CV
     </tr>
     <tr>
       <td>Software Engineering Practices</td>
-      <td>Agile, Unit Testing, Code Review</td>
+      <td>Agile, Unit Testing, Code Review, SOLID, Microservices design</td>
     </tr>
     <tr>
       <td>Relational and NoSQL Database</td>
@@ -64,7 +64,7 @@ title: Digital CV
 **Solution Developer at HID Global Cid Ltd.**
 <br> Hong Kong |May 2019 - Sep 2020
 - Collaborated with peers to implement the passport workflow management system of Libya passports with rest APIs, Java, Spring Data, MySQL, and Git, result in a production-ready application
-- Mentored our peers in Nigeria through the Nigerian passport production control system by giving sample RESTful API calls in JSON and demo videos on slack, successfully delivering it to production
+- Mentored peers in Nigeria through the Nigerian passport production control system by giving sample RESTful API calls in JSON and demo videos on slack, successfully delivering it to production
 - Maintained the front-end of the Macao passport system by enhancing UI with Angular.js, HTML, and CSS to help officers control the passport production more efficiently
 - Prepared report templates using Jaspersoft studio and MicrosoftSQL
 
@@ -95,8 +95,9 @@ title: Digital CV
 - **responsibilities**:
     - Designed the platform in collaboration with other Phd students,
     - Designed the back-end database;
-    - Implemented the webframework using Ruby On Rails, Vue.js, and PostgreSQL;
-    - Developed all the online visualization modules using Oviz.
+    - Implemented the web platform using Ruby On Rails, Vue.js, and PostgreSQL;
+    - Developed all the online visualization modules using Oviz;
+    - Improved the UI using Bootstrap-Vue and TypeScript.
 
 - **result**: The proposal is now under revision at Microbiome. The platform  is available at [gutmeta.deepomics.org](https://gutmeta.deepomics.org/visualizer/analysis/meta-overview).
 > The gutmeta platform is temporarily down.
@@ -128,8 +129,8 @@ Hong Kong | Mar 2021 - Aug 2022
 
 ## Publications
 
-1. Tan B, Chen L, Jia W, **Wang Y**, Li H, Li S. CNAHap: a germline haplotyping method using tumor allele-specific copy number alteration. bioRxiv. 2021 Jan 1.
-2. He J, Luo J, Liu L, Chen L, Xu X, **Wang Y**, Wei B, Ju C, Wang X, Huang L, Zeng W, Miao X, Sang L, Huang D, Pan G, Peng G, Chen Z, Zhao Z, Yang C, Cui W, Li S. Over-shedding of donor-derived cell-free DNA at immune-related regions into plasma of lung transplant recipient. (_in production at CTM_)
-3. Jiang Y\*, **Wang Y\***,  Che L*, Li, S. GutMeta, a one-stop platform for human gut whole-genome shotgun metagenomic sequencing data analysis (_proposal submitted to NAR_)
+1. Jiang Y\*, **Wang Y\***, Che L\*, Yang S, Zhang X, Lin Y, Shi Y, Zou N, Wang S, Zhang Y, Zhao Z, Li S. GutMetaNet: an integrated database for exploring horizontal gene transfer and functional redundancy in the human gut microbiome. Nucleic Acids Research, 2024 Nov 11.
+2. Tan B, Chen L, Jia W, **Wang Y**, Li H, Li S. CNAHap: a germline haplotyping method using tumor allele-specific copy number alteration. bioRxiv. 2021 Jan 1.
+3. He J, Luo J, Liu L, Chen L, Xu X, **Wang Y**, Wei B, Ju C, Wang X, Huang L, Zeng W, Miao X, Sang L, Huang D, Pan G, Peng G, Chen Z, Zhao Z, Yang C, Cui W, Li S. Over-shedding of donor-derived cell-free DNA at immune-related regions into plasma of lung transplant recipient. (_in production at CTM_)
 4. Wang S\*, Wang M\*, Chen L, Yu Y, Pan G, **Wang Y**; Tan B, Li S. SpecHLA: haplotyping entire HLA genes from sequencing data (_proposal submitted to Cell Systems_)
 5. Jiang Y\*, Wang S, **Wang Y**, Zhang X, Li, S. A framework to trace microbial engraftment at the strain level during fecal microbiota transplantation (_under publication at BMC_) 
